@@ -1,0 +1,9 @@
+.env
+pycache/*.pyc
+venv/
+.ebextensions/
+src/__pycache__
+src/articles_store/
+src/cache/
+src/tutorial_newsapi.py
+src/global_settings.py
